@@ -2,6 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csproj", "{691D9C43-D2B8-45A1-9EA6-8867A668516E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{702F6347-1FC3-432C-98B4-21B6CB8F8D29} = {702F6347-1FC3-432C-98B4-21B6CB8F8D29}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITask", "ITask\ITask.csproj", "{62198D38-44CC-4117-B1DF-6D68EE362B40}"
 EndProject
