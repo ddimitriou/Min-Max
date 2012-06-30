@@ -135,7 +135,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ConsoleApplication2\ITask\ITask.csproj">
+    <ProjectReference Include="..\ITask\ITask.csproj">
       <Project>{62198D38-44CC-4117-B1DF-6D68EE362B40}</Project>
       <Name>ITask</Name>
     </ProjectReference>
